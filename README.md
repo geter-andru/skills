@@ -7,8 +7,8 @@ Free skills for founders who sell a B2B product to enterprises, including founde
 For a paid pilot that is stalling, coming up for renewal, or being asked to "show the ROI". The skill walks you through five steps and leaves you with documents you can send:
 
 1. **The pilot facts:** what was agreed, who uses it, what has happened.
-2. **The baseline:** the "before" numbers the pilot never captured, rebuilt from records the customer already keeps.
-3. **A one-page case for the CFO:** what changed, what it's worth, what it costs, and the risk of stopping.
+2. **The baseline:** the "before" numbers the pilot never captured, rebuilt from records the customer already keeps, where they exist.
+3. **A one-page case for the CFO:** what changed, what it's worth, what it costs, and the cost of doing nothing.
 4. **Who else must agree:** finance, procurement (the team that runs vendor contracts), security, legal and the budget owner (whoever's budget pays for it), with what each will ask.
 5. **Success criteria the customer writes:** so the renewal is judged on terms their own team set.
 
