@@ -1,0 +1,21 @@
+{
+  "name": "andru-skills",
+  "version": "0.1.0",
+  "description": "Free skills from Andru for founders selling to enterprises. First skill: turn a stalled paid pilot into a production business case.",
+  "author": {
+    "name": "Humus & Shore",
+    "email": "geter@andru-ai.com"
+  },
+  "homepage": "https://github.com/geter-andru/skills",
+  "repository": "https://github.com/geter-andru/skills",
+  "license": "MIT",
+  "keywords": [
+    "sales",
+    "business-case",
+    "pilot",
+    "enterprise",
+    "b2b"
+  ],
+  "skills": "./skills/",
+  "logo": "assets/icon.png"
+}

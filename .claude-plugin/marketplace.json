@@ -1,0 +1,17 @@
+{
+  "name": "andru-skills",
+  "owner": {
+    "name": "Humus & Shore",
+    "email": "geter@andru-ai.com"
+  },
+  "metadata": {
+    "description": "Free skills from Andru for founders selling to enterprises."
+  },
+  "plugins": [
+    {
+      "name": "andru-skills",
+      "source": "./",
+      "description": "Free skills from Andru for founders selling to enterprises. First skill: turn a stalled paid pilot into a production business case."
+    }
+  ]
+}
