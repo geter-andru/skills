@@ -76,7 +76,7 @@ A production contract usually needs more people than the pilot did. For each rol
 - **Legal:** reviews the contract and any data-processing terms (the rules for how you handle their data).
 - **The users' manager:** asks whether the team will keep using it and what it changes for them.
 
-Procurement, security and legal can run alongside the business case rather than after it; suggest starting them now, so the paperwork is ready when the decision is.
+Procurement, security and legal can run alongside the business case rather than after it. Suggest starting them now, so a yes from finance isn't then held up by forms and reviews.
 
 For anyone the founder hasn't met, draft a two-line note their day-to-day contact could forward to introduce them. The note should say what the pilot means for that person's own goals, not just for the team using it. Prepare the founder for each first conversation with the two or three questions that role is most likely to ask.
 
